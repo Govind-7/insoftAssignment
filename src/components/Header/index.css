@@ -1,0 +1,60 @@
+.header {
+  background-color: #f25424;
+  display: flex;
+  padding: 20px;
+  align-items: flex-start;
+  color: white;
+}
+
+.h-logo {
+  width: 100px;
+  background-color: aliceblue;
+  padding: 10px;
+  border-radius: 10px;
+  margin-right: 250px;
+}
+
+.h-button {
+  background-color: black;
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+  margin-right: 40px;
+}
+
+.h-para {
+  margin-right: 40px;
+  text-decoration: none;
+  color: white;
+}
+
+.h-contact-details {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.h-contact-detail {
+  display: flex;
+  align-items: flex-start;
+}
+
+.h-contact {
+  margin-right: 40px;
+}
+
+.h-watsapp {
+  background-color: green;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+  border: 0px;
+  margin-right: 10px;
+}
+.h-mobileapp {
+  background-color: lightgreen;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+  border: 0px;
+  margin-right: 10px;
+}
